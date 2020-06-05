@@ -60,6 +60,7 @@ h1, h2, h3 {
 	letter-spacing: 1px;
 	font-weight: 300;
 	margin-bottom: 20px;
+	font-size: -webkit-xxx-large;
 }
 
 .navbar-brand {
@@ -188,9 +189,9 @@ h1, h2, h3 {
     top: 50%;
 }
 .title::before{
-    margin-left: -10px;
+    margin-left: -70px;
     transform: translateX(-100%);
 }
 .title::after{
-    margin-left: 10px;
+    margin-left: 70px;
 }
