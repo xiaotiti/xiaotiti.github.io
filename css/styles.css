@@ -196,7 +196,7 @@ h1, h2, h3 {
     margin-left: 70px;
 }
 
-.main-page:{
+.main-page{
     content: "";
     background-image: url(../image/couple.jpg);
     background-position: center center;
