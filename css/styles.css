@@ -198,7 +198,7 @@ h1, h2, h3 {
 
 .main-page{
     content: "";
-    background-image: url(../image/couple.jpg);
+    background-image: url(../images/couple.jpg);
     background-position: center center;
     background-size: cover;
     top: 0;
