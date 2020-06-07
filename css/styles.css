@@ -210,13 +210,14 @@ h1, h2, h3 {
 }
 
 .mega-title{
-		margin-top: 150px
+		margin-top: 150px;
 		text-align:center;
 }
 
 .mega-title .h1{
 		font-size: 5em;
 		font-family: 'Amatic SC', cursive;
+		color:ghostwhite;
 }
 
 .mega-title .p {
@@ -225,8 +226,8 @@ h1, h2, h3 {
 		color:ghostwhite;
 }
 
-.index-menu .a{
-	  text-align:center; 
+.index-menu{
+	  text-align:center;
     color: ghostwhite;
     font-size: 14px;
     background: #fff;
