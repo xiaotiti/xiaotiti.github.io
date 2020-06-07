@@ -200,12 +200,40 @@ h1, h2, h3 {
     content: "";
     background-image: url(../images/couple.jpg);
     background-position: center center;
-    background-size: cover;
+		background-repeat: no-repeat;
     top: 0;
     left: 0;
     bottom: 0;
     right: 0;
     position: absolute;
     z-index: -1;
-    opacity: 0.7;
+}
+
+.mega-title{
+		margin-top: 150px
+		text-align:center;
+}
+
+.mega-title .h1{
+		font-size: 5em;
+		font-family: 'Amatic SC', cursive;
+}
+
+.mega-title .p {
+		font-size: 1.25em;
+		font-family: 'Amatic SC', cursive;
+		color:ghostwhite;
+}
+
+.index-menu .a{
+	  text-align:center; 
+    color: ghostwhite;
+    font-size: 14px;
+    background: #fff;
+    border-radius: 2px;
+    line-height: 2;
+    display: inline-block;
+    padding: 0 20px;
+    border: 2px solid #555;
+
 }
