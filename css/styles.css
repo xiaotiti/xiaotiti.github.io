@@ -211,7 +211,8 @@ h1, h2, h3 {
 		margin-top: 150px;
 		text-align:center;
 		line-height: 5em;
-		margin=0;
+		margin-top: 150px;
+		line-height: 5em;
 }
 
 .mega-title h1{
@@ -224,8 +225,6 @@ h1, h2, h3 {
 		font-size: 1.25em;
 		font-family: 'Amatic SC', cursive;
 		color:ghostwhite;
-		margin-top: 150px;
-		line-height: 5em;
 }
 
 .index-menu {
