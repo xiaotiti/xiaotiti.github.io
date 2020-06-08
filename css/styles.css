@@ -204,13 +204,14 @@ h1, h2, h3 {
     right: 0;
     position: absolute;
     z-index: -1;
-		display: flex;
 }
 
 .mega-title{
 		margin-top: 150px;
+		line-height: 5em；
 		text-align:center;
-		line-height: 5em;
+		flex = 1;
+
 }
 
 .mega-title h1{
@@ -228,6 +229,7 @@ h1, h2, h3 {
 .index-menu {
 	  text-align:center;
 		margin=0;
+		flex = 1;
 }
 
 .index-menu a{
