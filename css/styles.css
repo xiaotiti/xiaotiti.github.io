@@ -208,9 +208,8 @@ h1, h2, h3 {
 
 .mega-title{
 		margin-top: 150px;
-		line-height: 5em；
-		text-align:center;
-		flex = 1;
+		line-height: 5em;
+		text-align: center;
 
 }
 
@@ -229,7 +228,6 @@ h1, h2, h3 {
 .index-menu {
 	  text-align:center;
 		margin=0;
-		flex = 1;
 }
 
 .index-menu a{
