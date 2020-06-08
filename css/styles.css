@@ -175,6 +175,7 @@ h1, h2, h3 {
     overflow: hidden;
     font-size: 250px;
     color: #999;
+		margin-bottom: 15px;
 }
 .title::before,.title::after{
     content: '';
