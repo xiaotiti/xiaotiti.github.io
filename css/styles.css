@@ -204,6 +204,7 @@ h1, h2, h3 {
     right: 0;
     position: absolute;
     z-index: -1;
+		display: flex;
 }
 
 .mega-title{
@@ -217,7 +218,8 @@ h1, h2, h3 {
 		font-size: 5em;
 		font-family: 'Amatic SC', cursive;
 		color:ghostwhite;
-		margin=0;
+		margin-top: 150px;
+    line-height: 5em;
 }
 
 .mega-title p{
